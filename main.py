@@ -13,7 +13,7 @@ from utils import (
 
 # Page configuration
 st.set_page_config(
-    page_title="Real Estate Investment Simulator - UAE",
+    page_title="Oria Investment Simulator (buy - renovate - sell) - UAE",
     page_icon="🏠",
     layout="wide"
 )
